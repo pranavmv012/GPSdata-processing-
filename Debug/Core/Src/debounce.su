@@ -1,0 +1,12 @@
+debounce.c:11:6:debounceInit	32	static
+debounce.c:20:6:debounceInit2	32	static
+debounce.c:29:6:debounceInit3	32	static
+debounce.c:38:6:debounceInit4	32	static
+debounce.c:48:6:deBounceInit	40	static
+debounce.c:67:6:deBounceInit2	40	static
+debounce.c:85:6:deBounceInit3	40	static
+debounce.c:103:6:deBounceInit4	40	static
+debounce.c:122:8:deBounceReadPin	24	static
+debounce.c:164:8:deBounceReadPin2	24	static
+debounce.c:206:8:deBounceReadPin3	24	static
+debounce.c:248:8:deBounceReadPin4	24	static
